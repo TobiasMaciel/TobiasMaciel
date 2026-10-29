@@ -62,4 +62,4 @@ Ingeniero en Sistemas de Información (UTN FRRe). Desarrollo productos web y mó
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,fastapi,nodejs,postgres,docker,aws,cloudflare&perline=10" alt="Tecnologías" height="32">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,hono,python,postgres,supabase,aws,cloudflare,docker,githubactions&perline=12" alt="Tecnologías" height="32">
